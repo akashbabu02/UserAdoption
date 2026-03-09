@@ -4,8 +4,8 @@
 
         Integer a = 10;
 
-        System.debug(a); // ERROR: variable b does not exist
+        System.debug(b);        // ERROR: variable b does not exist 
 
     }
-
+    
 }
